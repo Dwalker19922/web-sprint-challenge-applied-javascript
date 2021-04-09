@@ -22,10 +22,10 @@ In meeting the minimum viable product (MVP) specifications listed below, your pr
 
 #### Repository Set Up
 
-- [ ] Create a forked copy of this project.
-- [ ] Clone your OWN version of the repository (Not Lambda's by mistake!).
-- [ ] Create a new branch: `git checkout -b <firstName-lastName>`.
-- [ ] Implement the project on your newly created `<firstName-lastName>` branch, committing changes regularly.
+- [ d] Create a forked copy of this project.
+- [d ] Clone your OWN version of the repository (Not Lambda's by mistake!).
+- [ d] Create a new branch: `git checkout -b <firstName-lastName>`.
+- [ d] Implement the project on your newly created `<firstName-lastName>` branch, committing changes regularly.
 - [ ] Push commits: `git push origin <firstName-lastName>`.
 
 #### Launching the App
